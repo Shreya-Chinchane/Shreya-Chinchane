@@ -1,7 +1,9 @@
-## Hi there 👋 My name is Shreya Chinchane
+### Hi there 👋 My name is Shreya Chinchane
+
 
 
 ## 🚀 Aspiring Data Scientist | Machine Learning Enthusiast
+
 
 I'm a passionate data professional with a strong foundation in Python, SQL, Statistics, and Data Visualization. My goal is to leverage data-driven solutions to solve real-world problems, specializing in data analytics and machine learning.
 
@@ -74,6 +76,7 @@ I'm currently diving deeper into Machine Learning and Advanced Visualization Too
 
 ### 📊 Stats
  
-![Shreya-Chinchane](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Shreya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreya-Chinchane&show_icons=true&theme=radical)
+ 
 
 

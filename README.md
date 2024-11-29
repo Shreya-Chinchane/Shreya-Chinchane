@@ -65,7 +65,7 @@ Tech Stack: Python, Streamlit, Power BI
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shreya-chinchane/)
   
-- 📧 [Email](chinchaneshreya@gmail.com)
+- 📧 [Email](mailto:chinchaneshreya@gmail.com)
 
 
 

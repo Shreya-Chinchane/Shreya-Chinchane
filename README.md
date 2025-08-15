@@ -11,7 +11,7 @@ I'm a passionate data professional with a strong foundation in Python, SQL, Stat
 ## 📚 Education
 
 
-• Masai School Data analytics (Jul 2024 -present)
+• Masai School Data analytics (Jul 2024 - Dec 2024)
 
 • M.Sc. in Computer Science (2024) - Ramnarain Ruia College, Mumbai (9.16 CGPA)
 

@@ -32,6 +32,10 @@ I'm a passionate data professional with a strong foundation in Python, SQL, Stat
 
 ## 🌟 Experience
 
+Software Engineer| PineLabs (Jan 2025 - Present)
+
+• Working on MSBI tools and data analytics using PowerBi.
+
 
 Data Analyst Intern | Telesoft (Dec 2023 - June 2024)
 
